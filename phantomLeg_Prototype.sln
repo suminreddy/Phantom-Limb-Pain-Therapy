@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phantomLeg_Prototype", "phantomLeg_Prototype.csproj", "{6BD98E0E-A4F3-53FD-E471-181EA92FBDE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phantomLeg_Prototype.Editor", "phantomLeg_Prototype.Editor.csproj", "{03499417-1347-0908-9C0F-D2037575ED13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BD98E0E-A4F3-53FD-E471-181EA92FBDE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD98E0E-A4F3-53FD-E471-181EA92FBDE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD98E0E-A4F3-53FD-E471-181EA92FBDE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD98E0E-A4F3-53FD-E471-181EA92FBDE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03499417-1347-0908-9C0F-D2037575ED13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03499417-1347-0908-9C0F-D2037575ED13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03499417-1347-0908-9C0F-D2037575ED13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03499417-1347-0908-9C0F-D2037575ED13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
